@@ -1,5 +1,5 @@
 const dynamicText = document.querySelector('.dynamic-text');
-const textArray = ['Backend Engineer.', 'Beginner.', 'Pemula.', 'Air Tenang Menghanyutkan'];
+const textArray = ['Backend Engineer.', 'Beginner.'];
 let textIndex = 0;
 let charIndex = 0;
 let typing = true;
